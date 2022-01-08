@@ -3,8 +3,8 @@ Set of Kruzty Logos
 
 
 ```
-sm - 193px x 50px 
-lg - 1436px x 372px
+sm - 262px x 75px 
+lg - 1920px x 550px
 ````
 
-This repo also contains AI and PSD source files to export images as per your requirement.
+This repo also contains PSD source files to export images as per your requirement.
